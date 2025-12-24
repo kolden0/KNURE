@@ -1,2 +1,0 @@
-# KNURE
-Network programming
